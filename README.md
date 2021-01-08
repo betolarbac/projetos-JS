@@ -1,10 +1,16 @@
 # Projetos JavaScript 
 
+
+
 ## Projetos
+
+
 
 ### Calculadora #1
 
-<iframe src="https://player.vimeo.com/video/498483891" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p align="center">
+  <img src="https://ik.imagekit.io/c5bfv7ywhfj/Captura_da_Web_8-1-2021_183815__Qd2w0GYIV.jpeg" width="700" >
+</p>
 
 
 
